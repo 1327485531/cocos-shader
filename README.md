@@ -4,8 +4,15 @@ Cocos Shader 游戏特效合集
 🎬 视频教程
 抖音/B站搜索：[小喷壶AI搞特效]/[我有一个小喷壶]
 ---
+## 角色爆气背景特效
 
+📦 **文件**：[sz0.zip](./sz0.zip)  
+🎯 **说明**：角色背景爆气。  
+<img width="1172" height="672" alt="chrome_kuZMuO29Pa" src="https://github.com/user-attachments/assets/7cfd57ac-da3b-44b2-9b12-859cb514d8c1" />
+
+---
 ## 粒子颜色爆炸特效
+
 📦 **文件**：[zha.zip](./zha.zip)  
 🎯 **说明**：让粒子根据图片采样颜色，产生爆炸效果。  
 
@@ -13,9 +20,12 @@ Cocos Shader 游戏特效合集
 
 ---
 
+
 ## 原图转线稿特效
+
 📦 **文件**：[xiangao.zip](./xiangao.zip)  
 🎯 **说明**：将原图实时转换为线稿风格的 Shader 特效。  
+
 
 <img width="533" height="305" alt="原图转线稿预览" src="https://github.com/user-attachments/assets/5ac7d22b-c6e9-4491-aca2-e11f1efff6db" />
 
