@@ -4,6 +4,15 @@ Cocos Shader 游戏特效合集
 🎬 视频教程
 抖音/B站搜索：[小喷壶AI搞特效]/[我有一个小喷壶]
 ---
+## mcp做的旋涡
+
+📦 **文件**：[wo.zip](./wo.zip)  
+🎯 **说明**：角色背景爆气。  
+<img width="405" height="382" alt="CocosCreator_ilunDReB4D" src="https://github.com/user-attachments/assets/75cd3bda-8a29-4656-a0a7-b7a3ff33787d" />
+
+
+---
+---
 ## 角色爆气背景特效
 
 📦 **文件**：[sz0.zip](./sz0.zip)  
